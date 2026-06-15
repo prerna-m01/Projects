@@ -1,4 +1,4 @@
-# 📊 Machine Learning Practice Projects
+# 📊 Machine-Learning-Foundations
 
 This repository contains my hands-on practice projects in Machine Learning, focusing on building a strong foundation in regression and classification algorithms using Python.
 
