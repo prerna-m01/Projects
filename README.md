@@ -62,9 +62,3 @@ Through these projects, I gained practical experience in:
 - Work on real-world datasets and end-to-end projects
 
 ---
-
-## 🤝 Connect with Me
-
-I am currently looking for Machine Learning / Data Science internship opportunities.
-
-Feel free to connect with me on LinkedIn!
